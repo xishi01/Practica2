@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\UCM\\MAP\\Practica2\\Grupo25\\",
+  "WorkspaceRootPath": "C:\\Practica2\\Practica2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A57D817A-5F8F-4E5F-8296-62F73DD02D06}|Practica2.csproj|c:\\ucm\\map\\practica2\\grupo25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A57D817A-5F8F-4E5F-8296-62F73DD02D06}|Practica2.csproj|c:\\practica2\\practica2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A57D817A-5F8F-4E5F-8296-62F73DD02D06}|Practica2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,21 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\UCM\\MAP\\Practica2\\Grupo25\\Program.cs",
+              "DocumentMoniker": "C:\\Practica2\\Practica2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\UCM\\MAP\\Practica2\\Grupo25\\Program.cs",
+              "ToolTip": "C:\\Practica2\\Practica2\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAI4AAAAAAAAAAAAUwJIAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T22:45:19.244Z",
               "EditorCaption": ""

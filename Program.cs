@@ -5,6 +5,7 @@ public class Program
 {
     static void Main()
     {
+        Console.WriteLine("He modificado este archivo para la practica 2 de MAP");
         Console.CursorVisible = false;
 
         int[,] ex1 = new int[,] {
